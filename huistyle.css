@@ -1,0 +1,173 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(206, 198, 198);
+    font-size: 16px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: #000;
+}
+
+a:link {
+    text-decoration: underline;
+    color: #000;
+    font-weight: bold;
+}
+
+.clear {
+    float: none;
+    clear: both;
+    margin: 20px 0px 20px 0px;
+}
+
+
+/* Header
+--------------------------------------------------- */
+
+#contact-details .header_1 {
+    float: left;
+    width: 350px;
+    text-align: center;
+    margin: 40px 0px 0px 20px;
+}
+
+#contact-details .header_1 img {
+    border: #fff solid 4px;
+    padding: 16px;
+    margin: 10px 0px 0px 0px;
+}
+
+#contact-details .header_2 {
+    float: left;
+    width: 570px;
+    margin: 40px 0px 0px 10px;
+}
+
+#contact-details .header_2 a {
+    font-weight: normal;
+}
+
+#contact-details h1 {
+    margin: 30px 30px 0px 50px;
+    font-size: 52px;
+    font-weight: bold;
+}
+
+#contact-details h3 {
+    margin: 30px 30px 32px 50px;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#contact-details ul.info_1 {
+    list-style: none;
+    margin: 0px 0px 0px -12px;
+    font-size: 18px;
+}
+
+#contact-details ul.info_2 {
+    list-style: none;
+    margin: 0px 0px 15px -12px;
+    font-size: 18px;
+}
+
+#contact-details li.address {
+    background-position: 0px 0px;
+    padding: 0px 0px 12px 40px;
+}
+
+#contact-details li.phone {
+
+    background-position: 0px 0px;
+    padding: 0px 0px 12px 40px;
+}
+
+#contact-details li.email {
+
+    background-position: 0px 0px;
+    padding: 0px 0px 12px 40px;
+}
+
+
+
+
+
+/* Main Content
+--------------------------------------------------- */
+
+
+h2 {
+    margin: 40px 0px 0px 0px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
+dl {
+    margin: 0px 50px 0px 0px;
+}
+
+
+dt {
+    float: left;
+    width: 300px;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: right;
+}
+
+dd {
+    width: 620px;
+    float: right;
+    margin-right: 20px;
+}
+
+
+p.company {
+    margin: 0px;
+    font-weight: bold;
+    color: #326302;
+    font-size: large;
+}
+
+
+p.time {
+    margin: 0px;
+}
+
+p.summary {
+    margin: 10px 0px 0px 0px;
+}
+
+
+#skills ul.list1 {
+    float: left;
+    list-style: circle;
+    margin: 0px 0px 0px -40px;
+    width: 220px;
+}
+
+#skills ul.list2 {
+    float: left;
+    list-style: circle;
+    margin: 0px 0px 0px 0px;
+    width: 220px;
+}
+
+#skills li {
+    background-position: 0px 2px;
+    padding: 0px 0px 0px 25px;
+}
+
+abbr {
+    border-width: 0px;
+}
+
+
+/* Footer
+--------------------------------------------------- */
+
+#footer {
+    margin: 40px 40px 0px 40px;
+}
